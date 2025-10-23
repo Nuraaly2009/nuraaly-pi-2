@@ -7,3 +7,5 @@ if sorted(word1) == sorted(word2):
     print('анаграма')
 else:
     print('не анаграма')
+
+print('HEllo World')
